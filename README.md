@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Renad, a Jonior we Developer 
+- 👋 Hi, I’m Renad, a Junior web Developer 
 - 👀 I’m interested in Full-Stack, AI and ML 
 - 🌱 I’m currently learning "HTML,CSS, SASS, Javascript, Typescript, React, Node.js"
 - 💞️ I’m open to collaborate and connect 
