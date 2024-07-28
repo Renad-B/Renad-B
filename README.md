@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renad-b&label=Profile%20views&color=0e75b6&style=flat" alt="renad-b" /> </p>
 
-- 🌱 I’m currently learning **Angular, Bootstrap**
+- 🌱 I’m currently learning **Angular, Spring boot**
 
 - 💬 Ask me about **React, MERN-Stack**
 
