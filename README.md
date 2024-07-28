@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" width="6008" height="auto" />
 
 <h1 align="center">Hi 👋, I'm Renad</h1>
-<h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
+<h3 align="center">A passionate fullstack developer from Saudi Arabia</h3>
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/cute-anime-kitten-typing-cat-bwqjywmrsxcjv5o3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renad-b&label=Profile%20views&color=0e75b6&style=flat" alt="renad-b" /> </p>
